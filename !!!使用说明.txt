@@ -1,4 +1,4 @@
-这里是witesow根据b站网课(https://www.bilibili.com/video/BV1wD4y1o7AS) 自己编写的python学习笔记，仅供读者参考。
+这里是witesow根据b站网课(https://www.bilibili.com/video/BV1wD4y1o7AS)自己编写的python学习笔记，仅供读者参考。
 1.初学者可以当作教材书，快速上手一些简单操作。
 2.专业者可以当作辅助工具，哪里有遗忘或不清楚的随时可以翻阅查看。
 3.所有附件均在attachments文件夹中
